@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDDNS.Client", "UpdateDDNS.Client\UpdateDDNS.Client.csproj", "{2E15916E-FD16-4DC6-9B21-BFC526449307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDDNS.Godaddy", "GodaddyDDNS\UpdateDDNS.Godaddy.csproj", "{32F754DB-C807-4437-99F4-B11575D1E5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDDNS.Base", "UpdateDDNS.Base\UpdateDDNS.Base.csproj", "{B053C5A7-583B-4F9E-A075-93D3B30EDE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateDDNS.Aliyun", "UpdateDDNS.Aliyun\UpdateDDNS.Aliyun.csproj", "{42F81A71-D04D-4741-A5D4-0B1361367A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E15916E-FD16-4DC6-9B21-BFC526449307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E15916E-FD16-4DC6-9B21-BFC526449307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E15916E-FD16-4DC6-9B21-BFC526449307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E15916E-FD16-4DC6-9B21-BFC526449307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F754DB-C807-4437-99F4-B11575D1E5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F754DB-C807-4437-99F4-B11575D1E5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F754DB-C807-4437-99F4-B11575D1E5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F754DB-C807-4437-99F4-B11575D1E5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B053C5A7-583B-4F9E-A075-93D3B30EDE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B053C5A7-583B-4F9E-A075-93D3B30EDE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B053C5A7-583B-4F9E-A075-93D3B30EDE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B053C5A7-583B-4F9E-A075-93D3B30EDE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F81A71-D04D-4741-A5D4-0B1361367A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F81A71-D04D-4741-A5D4-0B1361367A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F81A71-D04D-4741-A5D4-0B1361367A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F81A71-D04D-4741-A5D4-0B1361367A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9C53B8-2252-4626-813A-5E1970D1EB90}
+	EndGlobalSection
+EndGlobal

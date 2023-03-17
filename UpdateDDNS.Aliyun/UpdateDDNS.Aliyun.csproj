@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aliyun.Acs.Alidns" Version="1.0.1" />
+    <PackageReference Include="Aliyun.Acs.Core" Version="1.0.1" />
+    <PackageReference Include="Aliyun.Acs.Ecs" Version="1.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UpdateDDNS.Base\UpdateDDNS.Base.csproj" />
+  </ItemGroup>
+
+</Project>
